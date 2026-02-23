@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Venv
+.venv/
+
+# Env
+.env
+
+# Локальные инструкции (не коммитить)
+.cursorrules
+human-readme.md
+genai-readme.md
